@@ -1,0 +1,6 @@
+node_modules
+.env
+.idea
+uploads/*.jpg
+uploads/*.png
+!uploads/.gitkeep
